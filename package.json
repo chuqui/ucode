@@ -1,7 +1,7 @@
 {
   "name": "ucode",
   "version": "1.0.0",
-  "description": "Run users code safe.",
+  "description": "Create a sandbox to run user written code safely.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
   "keywords": [
     "code",
     "safe",
-    "environment",
+    "user written code",
+    "user code",
     "sandbox"
   ],
   "author": "Humberto Miatello",
