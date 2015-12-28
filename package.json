@@ -1,0 +1,25 @@
+{
+  "name": "ucode",
+  "version": "1.0.0",
+  "description": "Run users code safe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuqui/ucode.git"
+  },
+  "keywords": [
+    "code",
+    "safe",
+    "environment",
+    "sandbox"
+  ],
+  "author": "Humberto Miatello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chuqui/ucode/issues"
+  },
+  "homepage": "https://github.com/chuqui/ucode#readme"
+}
